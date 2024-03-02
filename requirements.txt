@@ -6,6 +6,8 @@ faiss-cpu==1.7.4
 protobuf~=3.19.0
 google-generativeai
 langchain_experimental
+langchain_google_genai
+langchain_community
 mysql-connector-python
 pymysql
 sentence-transformers
